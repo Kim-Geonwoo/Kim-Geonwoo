@@ -1,4 +1,4 @@
-### Hi there !  👋
+### 안녕하세용! 👋
 
 
   
@@ -6,7 +6,7 @@
 
 
 
-## 🔨 Once I've used 🔨
+## 🔨 사용할 수 있는, 스택 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Database -->
     <p><strong>Database</strong></p>
@@ -40,6 +40,12 @@
       <img src="https://img.shields.io/badge/Headless UI-66E3FF?style=for-the-badge&logo=headlessui&logoColor=white">
     </div>
     <!-- Others -->
+
+<br />
+
+## 깃허브 통계 :)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Geonwoo&show_icons=true&hide_rank=true&hide=contribs)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Geonwoo&&layout=compact)](https://github.com/Kim-Geonwoo/github-readme-stats)
 
 </div><br>
 </div>
