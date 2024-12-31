@@ -45,7 +45,7 @@
 
 ## 깃허브 통계 :)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Geonwoo&show_icons=true&hide_rank=true&hide=contribs)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Geonwoo&&layout=compact)](https://github.com/Kim-Geonwoo/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Geonwoo&show_icons=true&hide_rank=true&hide=contribs&theme=dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Geonwoo&&layout=compact&theme=dark)](https://github.com/Kim-Geonwoo/github-readme-stats)
 
 </div><br>
 </div>
